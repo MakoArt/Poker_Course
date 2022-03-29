@@ -1,0 +1,118 @@
+-Una baraja consta de 4 palos  corazones , rombos, picas y treboles   .
+-Cada uno de estos palos tiene 13 cartas en total hacen 4 * 13 son 52 cartas  .
+-Van del A que es el mayor a el 2 que es el menor valor . 
+- A K Q J 10 9 8 7 6 5 4 3 2 .
+-Apuestas obligatorias o apuestas ciegas : 
+ BB y SB  Big blind y Small blind (ciega pequeña y ciega grande) 
+
+ETAPAS DEL JUEGO 
+-------------------
+PRE-FLOP 
+FLOP 
+TURN 
+RIVER  
+
+POSICIONES DE UNA MESA DE JUEGO 
+-----------------------------------
+Small blind ciega pequeña  
+Big Blind  ciega grande  
+UTG(under the gun) 
+MP (Medium position) 
+CO (cut off )
+Buttom (boton) 
+
+PROBABILIDAD 
+---------------
+Probabilidades : Opciones de que algo ocurra .  
+
+Lanzamiento de dado : 
+1 de que me salga lo que quiero entre 6  
+2 probabilidades de que salgan entre 6  
+
+1/6 = 0.16   que es igual a un 16% 
+2/6 = 0.33   que es igual a un 33%  
+
+Problema : 
+
+10 Euros si te sale un 2  en el dado 
+5 Euros si no sale  un 2  en el dado  
+
+Interesa?? 
+
+Formula   probabilidadGanar * lo que gano - probabilidadPerder * lo que pones .  
+
+EV- 
+
+(0.16 * 10) - (0.84 * 5) = -0.8
+
+
+
+ODDS O PROBABILIDAD 
+-----
+1:5  uno a favor y 5 en contra  
+
+5:1 underdog cinco en contra y uno a favor 
+
+POT ODDS (relacion de la probabilidad con el dinero )
+---------------------------------------------------------
+
+ Una bolsa con bolas  rojas y verdes  20 verdes y 80 rojas    
+
+
+ cada vez que saques una verde te doy 5 euros  
+ cada vez que saques una roja  me das 2 euros   EV+ o EV-  (esperanza por valor)  
+
+ 0,2 * 5  - 0,8 * 2 =  1 - 1,6 =  -0,6 EV- 
+
+ 
+ MONEDA AL AIRE 
+ ---------------- 
+ 
+ ganas 20 euros cada vez que salga cara 
+ pierdes 20 euros cada vez que salga cruz  
+
+  1/2 = 0.5   por lo tanto tengo un 50% de probabilidad de que salga lo que quiero  
+
+  0.5 * 20 - 0.5 * 20 = 0   EV  0  
+
+ SITUACION IGUAL PERO SI GANAMOS GANAMOS MAS QUE PERDEMOS
+
+ ganas 40 euros cada vez que salga cara 
+ pierdes 20 euros cada vez que salga cruz  
+ 
+ 1/2 = 0.3   por lo tanto tengo un 50% de probabilidad de que salga lo que quiero  
+
+ 0.5 * 40 - 0.5 * 20 = 20-10 = 10 CADA 100 GANO 10 
+
+
+
+ PASOS A SEGUIR PARA CALCULAR LAS POT ODDS   
+ ------------------------------------------------
+
+ 1. Cuantos outs tenemos (cartas que estan en el mazo que nos sirven para nuestra jugada) 
+ 2. Ejemplo si hay 13 cartas para color si tenemos dos en mano y dos en flop tendremos 9 outs los restantes  
+ 3. ahora sabiendo eso que tenemos 52 cartas en la baraja -3 del flop -2 nuestras y las de los otros jugadores  
+ 4. imaginemonos que nos quedan 47  
+
+ ¿Cual es la probabilidad que salga una de esas 9 cartas que nos hacen falta si tenemos 47 ? Regla de 3   
+
+ 9 --- 47  
+ x ----100 
+
+ 9 * 100 /47 = 19.14%    0.19 * 200 - 0.81 * 20 = 38-16 =22  
+
+ PROBABILIDADES DE QUE SALGA LA CARTA QUE QUEREMOS EN TURN O RIVER (formula practica)  
+
+ probabilidad en la proxima carta    ->    outs * 2   
+ probabilidad en las proximas 2 cartas   -> outs * 4  
+
+ ODDS IMPLICITAS 
+ -------------------
+ son las probabilidades dependiendo lo que pudieran hacer los jugadores  
+
+ ODDS IMPLICITAS INVERSAS 
+ ---------------------------
+  Cuando para calcular los outs o cartas que nos valen que quedan por salir para nuestra jugada 
+  esas cartas las descontar porque benefician mas a algun rival   
+
+********************************************************************************************************

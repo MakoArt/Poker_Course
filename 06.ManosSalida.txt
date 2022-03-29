@@ -1,0 +1,27 @@
+EN MESAS DE 6 JUGADORES 
+----------------------------  
+o es offsuitedd cartas del mismo color 
+
+s es suited o cartas del mismo color  
+
+cuando las cartas tiene un hueco entre esllas es 1gap 2gap si dos asi 
+respectivamente 
+
+T quiere decir 10 
+ 
+
+SB y BB
+----- 
+77+, A8s+, K9s+, QTs+, JTs, ATo+, KJo+, QJo  
+
+
+
+MediumPosition
+----------------
+66+, A5s+, K9s+, Q9s+, JTs, ATo+, KTo+, QTo+ 
+
+
+
+CO y Button 
+------------ 
+66+, A2s+, K6s+, Q8s+, J8s+, T8s+, A7o+, K9o+, QTo+, JTo 

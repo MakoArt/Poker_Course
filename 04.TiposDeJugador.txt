@@ -1,0 +1,58 @@
+Tipos de jugador  
+
+offsuited es nuestra mano que son de distinto palo 
+suited es cuando nuestras cartas de mano son de igual palo 
+
+El tipo de jugador viene definido por dos datos :
+
+el VPIP  Voluntary Put in Pot  : 
+porcentaje de veces que el jugador ve el flop
+
+
+PFR o preflop raise :  
+porcentaje de veces que el jugador sube la apuesta al principio el preflop
+
+
+MESAS DE 6 JUGADORES 
+---------------------
+loose quiere decir que juega un rango de manos del 50% en adelante por lo tanto manos buenas y malas 
+tight quiere decir conservador va a tener un 15% , rango de manos bajo por lo tanto manos fuertes 
+semitight o semiloose juega del 20 al 30% de las manos 
+
+MESAS DE 9 O 10 JUGADORES 
+---------------------------
+loose juega el 30% esta siendo un jugador con manos no muy buenas  
+tight quiere decir que va a tener un rango 5%  mas o menos 
+semitight quiere decir que juega mas o menos un 15% 
+
+Pasivos 
+--------
+Casi nunca sube y lo que hace es igual igualar apuestas sin subir 
+o apuestas subidas .
+En resumen lo que suele hacer es hacer call a las apuestas tanto si vienen 
+subidas como si no y esto lo hace como norma general 
+
+Agresivo 
+---------
+El jugador que haces subidas de la apuesta base y resubidas.
+
+
+
+loose Pasivos  
+--------------
+Jugador que juega muchas manos y las juega sin agresividad sin subidas ni resubidas
+
+Tight Pasivos 
+-------------- 
+Jugadores que juegan pocas manos pero no tienen mucha experiencia y suelen tender  
+a hacer calls y no subir mucho o resubidas 
+
+loose Agresivos 
+---------------
+Jugadores que juegan muchas manos y que juegan subiendo o resubiendo 
+
+
+Tight Agresivos  
+-----------------
+Jugadores  que juegan con rango de manos limitado y suben o resuben 
+

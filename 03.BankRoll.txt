@@ -1,0 +1,39 @@
+
+EV  VARIANZA  Y   BANKROLL 
+----------------------------  
+
+EV(Valor Esperado que puede ser EV+ o EV-) 
+
+
+LA  VARIANZA  
+------------
+Lo que deberias de haber ganado por probabilidad pero no se 
+esta cumpliendo (Y es normal ) Mantenter la calma .  
+
+
+EL BANKROLL 
+------------------  
+Cantidad de dinero disponible que necesitamos para jugar un nivel determinado . 
+Este dinero no debe ir destinado a cosas personales , ni sea dinero que necesitemos 
+para otras cosas , tenemos que asumir que podemos perder parte de el sin problemas . 
+
+
+El bankroll es para soportar una varianza negativa si se diera el caso   
+
+
+Las jugadas deben de ir con EV+ la mayoria y aun asi tendremos rachas de bajadas 
+
+
+Tambien tenemos que jugar con el fold equity para tener en cuenta la EV+ 
+fold equity es la probabilidad de que un jugador abandone la mano
+
+
+CANTIDAD QUE NECESITAMOS PARA SOPORTAR UN NIVEL  
+------------------------------------------------
+jugador experimentado 50 veces la apuesta grande   
+jugador sin experiencia tener 100 veces la ciega grande  
+
+0.01/0.02    2euros    la banca que necesitas son de 50 a 100 cajas que son 100 o 200 euros  
+
+0.05/0.10    10euros  la banca que necesitas son de  50 a 100 cajas que son de 500 a 1000 euros  
+
